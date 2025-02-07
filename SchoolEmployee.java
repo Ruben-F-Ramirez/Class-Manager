@@ -2,8 +2,6 @@
 
 /*
  * Ruben Ramirez
- * SID: 0432694
- * Professor Kewei Sha
  */
 
 package School_Manager;
