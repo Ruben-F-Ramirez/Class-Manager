@@ -1,19 +1,8 @@
 /*
-*Ruben Ramirez
-*SID: 0432694
-*Professor Kewei Sha
-*
-*/
-
-
-
-/*
  * Ruben Ramirez
- * SID: 0432694
- * Professor Kewei Sha
  */
 
-package hw7;
+package School_Manager;
 
 /**
  *
