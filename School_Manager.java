@@ -1,15 +1,13 @@
 /*
  * Ruben Ramirez
- * SID: 0432694
- * Professor Kewei Sha
  */
-package hw7;
+package School_Manager;
 
 /**
  *
  * @author Ruben Ramirez
  */
-public class Hw7 {
+public class School_Manager {
 
     /**
      * @param args the command line arguments
@@ -44,16 +42,7 @@ public class Hw7 {
         myChair.setOrganization("Math");
         myChair.setOfficeHour("5 p.m. to 7 p.m.");
         myChair.setDepartment("Math");
-        myChair.Work();
-        
-        /***********************************************
-         *      problem 3
-         ********************************************/
-        TotalArea myTotal = new TotalArea();
-        
-        myTotal.calcArray();
-        myTotal.display();
-        
+        myChair.Work();        
     }
     
 }
