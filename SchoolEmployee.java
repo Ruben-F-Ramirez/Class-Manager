@@ -6,7 +6,7 @@
  * Professor Kewei Sha
  */
 
-package hw7;
+package School_Manager;
 
 /**
  *
